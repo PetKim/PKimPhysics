@@ -1,6 +1,8 @@
-- Hi, I’m Peter Kim
+- Hi, I’m Peter
+- This is where I am keeping all the projects I've done
 - I’m a physics graduate from Georgia State University (Spring 2022)
-- I’m currently a research intern at Fermilab
+- I worked at Fermilab during Fall 2022
+- Currently working at Vanderbilt
 - Currently improving my coding skills since we use it a lot during research (specifically C++ and Python)
 - If you need to contact me at all, my email is pkimresearch@gmail.com
 
